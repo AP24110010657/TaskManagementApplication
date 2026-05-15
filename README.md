@@ -1,7 +1,8 @@
 # ✦ Taskflow — AI-Powered Task Manager
 
 A full-stack task management web application built with vanilla HTML, CSS, and JavaScript, featuring user authentication, CRUD operations, real-time UI updates, and an integrated Claude AI assistant.
- 
+
+ Download the folder,open in VS code and run with live server.
 ---
 
 ## 🚀 Features
